@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+i=10
+
+if i=10:
+  print "yes true"
+else:
+  print "thanks"
