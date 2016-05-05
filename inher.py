@@ -17,4 +17,6 @@ print(sibling.value2)
 child=Child()
 print(child.value1)
 print(child.value2)
+
+father = father()
  
