@@ -9,3 +9,4 @@ elif num1<num2:
  print "the number1 is lesser than number2"
 else:
  print "bye"
+ print "bye"
