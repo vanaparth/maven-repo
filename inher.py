@@ -1,4 +1,4 @@
-class Parent:
+nclsncl:wqclass Parent:
 	value1="this is value 1"
 	value2="this is value 2"
 class Sibling (Parent):
