@@ -8,7 +8,7 @@ except:
      print "exception in code"
 	 
 """
-
+ hi venkat how are you 
 #raise TypeError("hahhaha")
 
 try:
